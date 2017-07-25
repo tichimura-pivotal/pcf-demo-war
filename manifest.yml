@@ -3,5 +3,5 @@ applications:
 - name: pcfdemo
   memory: 1G
   instances: 1
-  host: pcfdemo-yourname
+  host: pcfdemo-ichimura
   path: ./target/pcfdemo.war
