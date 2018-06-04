@@ -131,7 +131,7 @@
 
     <div class="container">
         <div class="footer">
-          <div class="footer-text">�&nbsp;2018 Softbank   </div>
+          <div class="footer-text">�&nbsp;2018 YSD  </div>
           <div class="footer-poweredby"><img src="resources/img/PoweredByPivotal.png" alt="Powered By Pivotal "></div>
 	    </div>
 	</div>
