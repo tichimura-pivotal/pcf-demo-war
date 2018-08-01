@@ -5,12 +5,12 @@ image_resource:
   type: docker-image
   source:
     repository: java
-    tag: {{docker-image-tag}}
+#    tag: {{docker-image-tag}}
 
 params:
   MAVEN_OPTS:
   MAVEN_CONFIG:
-  DOCKER_IMAGE_TAG:
+  docker_image_tag: "9.5"
 
 inputs:
   - name: pcfdemo
