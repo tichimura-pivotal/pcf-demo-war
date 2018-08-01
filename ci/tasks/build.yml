@@ -10,7 +10,7 @@ image_resource:
 params:
   MAVEN_OPTS:
   MAVEN_CONFIG:
-  docker_image_tag: "9.5"
+  docker_image_tag: "6"
 
 inputs:
   - name: pcfdemo
