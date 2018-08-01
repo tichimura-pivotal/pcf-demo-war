@@ -10,6 +10,7 @@ image_resource:
 params:
   MAVEN_OPTS:
   MAVEN_CONFIG:
+  DOCKER_IMAGE_TAG:
 
 inputs:
   - name: pcfdemo
