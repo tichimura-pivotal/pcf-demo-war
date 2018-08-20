@@ -58,6 +58,7 @@ jobs:
         params: &MAVENPARAMS
           MAVEN_OPTS: {{maven-opts}}
           MAVEN_CONFIG: {{maven-config}}
+          DOCKER_IMAGE_TAG: {{docker-image-tag}}
 
   - name: build-artifact
     serial_groups: [ version ]
