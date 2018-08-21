@@ -56,6 +56,8 @@ fi
 version=`cat $versionFile`
 artifactName="${artifactId}-${version}.${packaging}"
 
+java -version
+
 cd $inputDir
 ./mvnw clean package -Pci -DversionNumber=$version
 
