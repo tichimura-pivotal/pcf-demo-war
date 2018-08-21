@@ -3,5 +3,5 @@ applications:
 - name: pcfdemo-ms
   memory: 1G
   instances: 1
-  host: pcfdemo-ms-0525
+  host: pcfdemo-ci-demo
   path: ./target/pcfdemo.war
