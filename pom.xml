@@ -13,7 +13,7 @@
 	<groupId>com.pivotal</groupId>
 	<artifactId>pcf-demo</artifactId>
 	<name>pcf-demo</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
