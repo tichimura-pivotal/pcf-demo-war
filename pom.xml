@@ -14,7 +14,7 @@
 	<artifactId>pcf-demo</artifactId>
 	<name>pcf-demo</name>
 	<packaging>war</packaging>
-	<version>1.0.0-BUILD-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
 		<finalName>pcfdemo</finalName>
